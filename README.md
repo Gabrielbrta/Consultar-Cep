@@ -2,4 +2,4 @@
 
 ## link do resultado <a href="https://buscacepbrta.netlify.app" target="_blank">Buscar CEP</a>
 
-<p>Feito com HTML, CSS, Javascript e React</p>
+<p>Feito com HTML, CSS e ReactJS</p>
